@@ -1,7 +1,7 @@
 # COVID-Vaccination-Sites
 
 *******************************************
-This is the MATLAB implementation of the optimization methods used in the paper "Optimal Selection of COVID-19 Vaccination Sites at the Municipal Level"
+This is the MATLAB implementation of the optimization methods used in the paper "Optimal Selection of COVID-19 Vaccination Sites at the Municipal Level."
 
 ### Execution Instructions
 *******************************************
